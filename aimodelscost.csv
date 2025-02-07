@@ -1,0 +1,13 @@
+Model,Category,Cost (Million Dollars),Source
+DeepSeek R1,Software (training),5.58,DeepSeek's own paper
+GPT-4,Software (training),100,"Stanford HAI 2024 report, Sam Altman, CEO of OpenAI"
+Gemini 1.0,Software (training),191,Stanford HAI 2024 report
+DeepSeek R1,Hardware & Energy,500,Semianalysis
+GPT-4,Hardware & Energy,40.6,Epoch AI
+Gemini 1.0,Hardware & Energy,29.8,Epoch AI
+DeepSeek R1,R&D Staff Salaries,2.1762,Estimate based on Epoch AI
+GPT-4,R&D Staff Salaries,29,Epoch AI
+Gemini 1.0,R&D Staff Salaries,93.59,Epoch AI
+DeepSeek R1,Hardware,500,Epoch AI
+GPT-4,Hardware,78.4,Epoch AI
+Gemini 1.0,Hardware,191,Epoch AI
